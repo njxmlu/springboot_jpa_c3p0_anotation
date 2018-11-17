@@ -1,0 +1,8 @@
+com\xmlu\sprigboot\jpa\exam\dto\JsonResult.class
+com\xmlu\sprigboot\jpa\exam\dao\UserRepository.class
+com\xmlu\sprigboot\jpa\exam\dao\model\User.class
+com\xmlu\sprigboot\jpa\exam\config\DataSourceConfig.class
+com\xmlu\sprigboot\jpa\exam\service\UserService.class
+com\xmlu\sprigboot\jpa\exam\controller\UserController.class
+com\xmlu\sprigboot\jpa\exam\config\UserDBConfig.class
+com\xmlu\sprigboot\jpa\exam\SpringbootApp.class
